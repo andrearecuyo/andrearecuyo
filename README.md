@@ -12,7 +12,7 @@ This site was built using [ReactJS](https://reactjs.org/), [React Fullpage](http
 
 <img src="https://cdn.freelogovectors.net/wp-content/uploads/2018/12/react-logo.png" width="200">
 
-This is the first version of my portfolio, I am planning to show my progress through this website. I am a self-taught Designer and Front-End Developer, currently developing more skills using ReactJS and Vue.js. I enjoy designing and solving problems. 
+This is the first version of my portfolio, I am sa self-taught Designer and Front-End Developer, currently developing more skills using ReactJS and TypeScript. Continuously focused on career growth and expanding experiences by taking head-on complex tasks while also enjoying the satisfaction of implementing design into reality.
 
 Follow my journey, as I learn, design, and code more websites!
 
